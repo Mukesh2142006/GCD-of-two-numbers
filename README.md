@@ -15,7 +15,7 @@ To write a program to find the GCD of two numbers using function.
 4. Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
-'''
+```
 Program to find the gcd of two number using function. 
 Developed by: MUKESH.B
 RegisterNumber:  212223230128
@@ -31,7 +31,7 @@ RegisterNumber:  212223230128
         if(a%i==0 and b%i==0):
             hcf =i
     print("GCD of two numbers is:",hcf)
-'''
+```
 
 ## Output:
 ![Screenshot 2024-09-04 170835](https://github.com/user-attachments/assets/0d560ae5-3c49-48b1-9149-a008593d7d81)
